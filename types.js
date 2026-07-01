@@ -6,3 +6,7 @@ var country = "USA";
 var isRich = true;
 var passed = false;
 console.log(passed);
+
+console.log(typeof passed);
+
+console.log( isRich);
