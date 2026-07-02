@@ -1,5 +1,6 @@
 var orangePrice = 80;
 var applePrice = 50;
-var totalCost = orangePrice + applePrice;
+var bananaPrice = 30;
+var totalCost = orangePrice + applePrice + bananaPrice;
 
-console.log("Total cost of oranges and apples: " + totalCost);
+console.log("Total cost of all fruits: " + totalCost);
